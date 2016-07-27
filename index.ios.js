@@ -19,6 +19,9 @@ class HelloRN extends Component {
         <Text style={styles.welcome}>
           Welcome to React Native!
         </Text>
+        <Text style={styles.welcome}>
+          Hi Justin!
+        </Text>
         <Text style={styles.instructions}>
           To get started, edit index.ios.js
         </Text>
